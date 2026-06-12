@@ -36,4 +36,3 @@ Demonstrațiile matematice complete pentru sistemul de ecuații nelineare de la 
 
 ## Tehnologii Utilizate
 * MATLAB R2024b (Signal Processing Toolbox)
-* Simulink (pentru validarea schemelor bloc de cache `.slxc` în timp real)
